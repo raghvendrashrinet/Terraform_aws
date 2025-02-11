@@ -7,4 +7,4 @@
 1. Bastion Host / Public-Private subnet Route Table
 2. 3 Tier / Public - Private Subnet, NAT_GW
 3. VPC Gateway EndPoint
-4.   
+   
